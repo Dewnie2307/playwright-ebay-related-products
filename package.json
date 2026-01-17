@@ -1,0 +1,13 @@
+{
+  "name": "playwright-ebay-related-products",
+  "version": "1.0.0",
+  "description": "Playwright automation for eBay related products feature",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0"
+  }
+}
